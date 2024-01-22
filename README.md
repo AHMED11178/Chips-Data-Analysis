@@ -1,0 +1,3 @@
+-Use jupyterNoteBook to open the project
+-You will see a table of content at the first
+-Run the cells from the first until the end  
